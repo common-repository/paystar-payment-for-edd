@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PayStar Payment Gateway for EDD\n"
+"POT-Creation-Date: 2021-11-05 22:50+0330\n"
+"PO-Revision-Date: 2021-11-05 22:51+0330\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: paystar.php:15
+msgid "paystar-payment-for-edd"
+msgstr "درگاه پرداخت پی استار برای EDD وردپرس"
+
+#: paystar.php:21 paystar.php:22
+msgid "PayStar"
+msgstr "پی استار"
+
+#: paystar.php:63
+msgid "Pay"
+msgstr "پرداخت"
+
+#: paystar.php:101
+#, php-format
+msgid "Payment Completed. PaymentId : %s , RefrenceId : %s"
+msgstr "پرداخت با موفقیت انجام شد. شماره سفارش : %s . شماره پیگیری : %s"
+
+#: paystar.php:127 paystar.php:128
+msgid "PayStar Setting"
+msgstr "تنظیمات درگاه پی استار"
+
+#: paystar.php:133 paystar.php:134
+msgid "PayStar Terminal"
+msgstr "شناسه درگاه پی استار"
